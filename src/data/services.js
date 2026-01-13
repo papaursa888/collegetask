@@ -1,63 +1,74 @@
 export const services = [
   {
     id: 1,
-    title: 'Financial & Accounting ERP',
+    title: 'Cloud Hosting Services',
     description:
-      'Manage accounting, invoicing, taxes, and financial reports in one integrated cloud system.',
+      'Reliable and scalable cloud hosting infrastructure designed to support mission-critical business applications.',
     features: [
-      'General Ledger',
-      'Accounts Payable & Receivable',
-      'Invoicing & Billing',
-      'Tax Management',
-      'Financial Reporting'
+      'High Availability Servers',
+      'Scalable Resources',
+      '24/7 Monitoring',
+      'Secure Data Centers'
     ]
   },
   {
     id: 2,
-    title: 'Inventory & Supply Chain',
+    title: 'Cloud Storage Solutions',
     description:
-      'Track inventory in real time and optimize supply chain operations.',
+      'Secure cloud storage solutions for data backup, file sharing, and enterprise-level storage needs.',
     features: [
-      'Real-time Inventory Tracking',
-      'Warehouse Management',
-      'Purchase Orders',
-      'Supplier Management'
+      'Data Backup & Recovery',
+      'Encrypted Storage',
+      'Multi-region Access',
+      'High Performance'
     ]
   },
   {
     id: 3,
-    title: 'Human Resource Management',
+    title: 'ERP & SaaS Solutions',
     description:
-      'Simplify payroll, attendance, and employee data management.',
+      'Modern SaaS applications including ERP systems to streamline business operations and improve efficiency.',
     features: [
-      'Employee Database',
-      'Payroll Management',
-      'Attendance & Leave',
-      'HR Reports'
+      'Cloud-based ERP',
+      'Finance, HR & Inventory Modules',
+      'Subscription-based Access',
+      'Continuous Updates'
     ]
   },
   {
     id: 4,
-    title: 'Sales & CRM',
+    title: 'Custom SaaS Development',
     description:
-      'Increase sales efficiency and customer retention using CRM tools.',
+      'Design and development of custom SaaS applications tailored to your business requirements.',
     features: [
-      'Customer Database',
-      'Sales Orders',
-      'Quotation Management',
-      'Sales Analytics'
+      'System Analysis & Design',
+      'API-based Architecture',
+      'Cloud-native Applications',
+      'Scalable & Secure'
     ]
   },
   {
     id: 5,
-    title: 'ERP Implementation & Support',
+    title: 'IT Manpower & Technical Outsourcing',
     description:
-      'Professional implementation, training, and ongoing technical support.',
+      'Professional IT manpower services providing skilled technical resources for your projects.',
     features: [
-      'System Configuration',
-      'Data Migration',
-      'User Training',
-      'Priority Support'
+      'Software Developers',
+      'System Administrators',
+      'DevOps Engineers',
+      'Project-based & Dedicated Teams'
+    ]
+  },
+  {
+    id: 6,
+    title: 'IT Consulting & Support',
+    description:
+      'End-to-end IT consulting services to help businesses plan, implement, and manage technology solutions.',
+    features: [
+      'IT Strategy & Planning',
+      'System Implementation',
+      'Technical Support',
+      'Maintenance & Optimization'
     ]
   }
 ]

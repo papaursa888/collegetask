@@ -3,9 +3,9 @@
 
   <section class="page-header bg-light text-center">
     <div class="container" data-aos="fade-down">
-      <h1 class="fw-bold">Pricing Plans</h1>
+      <h1 class="fw-bold">Pricing</h1>
       <p class="text-muted mt-2">
-        Flexible pricing for businesses of all sizes
+        Transparent pricing for SaaS and ERP solutions
       </p>
     </div>
   </section>
@@ -24,12 +24,13 @@
 
   <section class="bg-primary text-white py-5">
     <div class="container text-center" data-aos="fade-up">
-      <h3>Need a custom ERP solution?</h3>
+      <h3>Need Custom IT Solutions?</h3>
       <p class="mb-4">
-        Contact us for enterprise pricing and tailored ERP implementation.
+        Contact CYVERSE for cloud infrastructure, SaaS development,
+        or manpower outsourcing pricing.
       </p>
       <button class="btn btn-light btn-lg">
-        Contact Sales
+        Contact CYVERSE
       </button>
     </div>
   </section>

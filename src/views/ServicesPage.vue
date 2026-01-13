@@ -5,7 +5,7 @@
     <div class="container" data-aos="fade-down">
       <h1 class="fw-bold">Our Services</h1>
       <p class="text-muted mt-2">
-        Complete ERP solutions designed to streamline your business operations
+        Comprehensive IT solutions designed to support your digital transformation
       </p>
     </div>
   </section>

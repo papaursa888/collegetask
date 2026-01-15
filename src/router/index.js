@@ -13,7 +13,7 @@ const routes = [
 ]
 
 export default createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/collegetask/'),
   routes,
   scrollBehavior() {
     return { top: 0 }
